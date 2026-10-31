@@ -332,6 +332,8 @@ A mãe escolhe o **período** (30, 90 ou 180 dias, ou personalizado), o **modelo
 | ✂️ **Serviços "amigos do autista"** | Cabeleireiro, fotógrafo, buffet, hotel e transporte |
 | 🎢 **Lazer** | Sessões de cinema adaptadas, parques com horário sensorial, esportes adaptados, natação |
 | 💼 **Trabalho e renda** | Vagas com horário flexível para mães, cursos de renda extra, empresas parceiras |
+| 🆘 **Plantão de acolhimento** | Terapeutas e clínicas verificados que oferecem orientação por telefone ou vídeo durante crises, em horários definidos, aparecendo na **Rede de ajuda próxima** (seção 12.1-B). Contrapartida: selo "Parceiro de plantão" e destaque no Hub. Não há ranking pago em emergência. |
+| 🔖 **Produtos de identificação** | Pulseiras, etiquetas, chaveiros e adesivos com o QR code do Cartão da criança |
 
 ### 9.2 Formatos de parceria
 1. **Cupom ou preço social:** a mãe resgata no app e o parceiro valida (código ou QR).
@@ -522,7 +524,7 @@ Funcionalidades adicionais que respondem às dores levantadas na pesquisa.
 | # | Módulo | O que faz | Por quê |
 |---|---|---|---|
 | 1 | 🆘 **SOS Crise** | Uma tela calma, com fundo escuro e sem som, e um passo a passo: segurança → reduzir estímulos → não exigir conversa → esperar → acolher. Inclui o "o que acalma o meu filho" (vindo do diário), um exercício de respiração para a mãe e, ao final, "registrar a crise". | As crises são a maior fonte de estresse dos pais. |
-| 2 | 📇 **Cartão da criança** | Uma carteirinha digital com foto, diagnóstico, como se comunica, o que acalma, alergias, medicação e contatos, com um QR code para emergências, escola e passeios. Mostra também a CIPTEA, se a família tiver. | Situações de emergência e de falta de informação. |
+| 2 | 📇 **Cartão da criança + Rede de ajuda próxima** | Uma carteirinha digital com QR code para emergências, escola e passeios (mostra também a CIPTEA, se a família tiver), mais um botão "Pedir ajuda perto de mim" que mostra **parceiros, mães do clã e serviços públicos próximos** para ligar na hora. | Quase metade das crianças autistas tenta fugir ou se perder pelo menos uma vez, e a mãe precisa de ajuda rápida por perto. |
 | 3 | ⚖️ **Direitos e modelos** | Checklist de direitos com o passo a passo e **modelos prontos**: pedido de negativa por escrito ao plano, reclamação na ANS, requerimento na UBS, pedido de profissional de apoio à escola e roteiro para a Defensoria. | A burocracia é a dor nº 3 da pesquisa. |
 | 4 | 🗂️ **Cofre de documentos** | Guarda laudos, receitas, relatórios, protocolos e negativas, organizados e com busca, e alerta quando um laudo está vencendo. | As mães vivem carregando pastas de papel. |
 | 5 | 📅 **Agenda e lembretes** | Terapias, consultas, remédios, renovação de laudo e prazos de processos. | Organização da rotina da família. |
@@ -535,6 +537,169 @@ Funcionalidades adicionais que respondem às dores levantadas na pesquisa.
 | 12 | 💼 **Trabalho e renda para mães** | Vagas flexíveis, cursos e empreendedorismo, em parceria com empresas. | Muitas mães saem do emprego. |
 | 13 | 🌱 **Linha do futuro** | Conteúdo sobre adolescência, puberdade, vida adulta e planejamento. | 79% se preocupam com o futuro. |
 | 14 | 🤖 **Assistente de dúvidas (futuro)** | Uma IA que responde **só com base no conteúdo revisado do app**, mostrando as fontes, sem diagnosticar e encaminhando ao profissional quando necessário. | As mães têm dúvidas a toda hora, e a desinformação é enorme. |
+
+### 12.1 Detalhamento dos módulos prioritários
+
+#### A. 🆘 SOS Crise
+**Onde fica:** um botão vermelho-suave **sempre visível** no topo de todas as telas, inclusive no modo criança (só a mãe consegue abrir), e um atalho na tela inicial do celular.
+
+**Ao tocar, abre uma tela calma:** fundo escuro, letras grandes, sem som, com o mínimo de texto. Ela segue 5 passos, um de cada vez, e a mãe avança com "Próximo":
+
+| Passo | O que a tela diz |
+|---|---|
+| 1. **Segurança** | "Afaste objetos perigosos. Se houver risco de se machucar, proteja a cabeça e o corpo da criança. Você não precisa conter à força." |
+| 2. **Menos estímulo** | "Diminua luz, barulho e pessoas em volta. Fale pouco, com voz baixa." |
+| 3. **O que acalma o [nome]** | Uma lista personalizada que vem do diário. Exemplo: "abafador (ajudou 6x), colo apertado (4x), música 'Ondas' (3x)", com um botão para tocar a música do Cantinho da calma. |
+| 4. **Espere e respire junto** | Uma animação de respiração para **a mãe**: "Inspire em 4... solte em 6". "A crise vai passar. Você está fazendo o seu melhor." |
+| 5. **Depois da crise** | "Ofereça água e um lugar tranquilo. Não é hora de bronca nem de explicação." Botão: **"Registrar esta crise"**, que abre o diário já com a data, a hora e a duração preenchidas pelo cronômetro. |
+
+**Botões fixos no rodapé do SOS:**
+- 📞 **Pedir ajuda perto de mim**, que abre a Rede de ajuda próxima (ver B).
+- 🚑 **SAMU 192** quando houver risco à vida ou ferimento grave.
+- ⏱️ **Cronômetro** da crise, que conta o tempo automaticamente.
+
+**Regras:**
+- O SOS funciona **100% offline**.
+- O SOS **nunca mostra anúncios**.
+- O conteúdo é revisado pelo conselho científico.
+- O texto é personalizável pela mãe com orientações do terapeuta da criança.
+
+---
+
+#### B. 📇 Cartão da criança com QR code + 📍 Rede de ajuda próxima
+
+**B.1 O cartão**
+- É a **carteirinha digital** da criança. A mãe escolhe o que aparece:
+  - foto e apelido;
+  - "Sou autista" e o tipo de comunicação ("não falo, mas entendo", "uso gestos");
+  - **o que fazer e o que não fazer** ("não toque sem avisar", "fale devagar", "deixe-o segurar o brinquedo");
+  - alergias, medicação de uso contínuo e condições de saúde (como epilepsia);
+  - a CIPTEA, se a família tiver;
+  - botões para **ligar para os responsáveis**.
+- **QR code:** quem escanear (policial, segurança do shopping, professor, socorrista ou um desconhecido que encontrou a criança) vê uma **página de emergência** com essas informações e botões para ligar e mandar WhatsApp aos responsáveis, **sem precisar instalar o app**.
+- **Formatos do QR:**
+  - no celular da mãe;
+  - impresso (PDF para plastificar, colocar na mochila ou na carteira);
+  - **pulseira, etiqueta para roupa, chaveiro ou adesivo de tênis** com o QR, vendidos por **parceiros** do Hub, com desconto para as famílias e também como fonte de receita.
+- **Alerta de leitura:** quando alguém escaneia o QR, a mãe recebe uma notificação. Se quem escaneou permitir, ela recebe também a localização aproximada de onde foi lido.
+- **Privacidade:**
+  - nunca mostra endereço nem o nome completo, a menos que a mãe escolha;
+  - o link pode ser **desativado e trocado** a qualquer momento (caso o cartão seja perdido);
+  - o diagnóstico detalhado e os laudos **não** aparecem no QR.
+
+> Por que isso importa: num estudo com 1.218 crianças autistas (Pediatrics, 2012), **49% tentaram fugir ou se afastar pelo menos uma vez depois dos 4 anos**, e mais da metade dessas crianças ficou desaparecida tempo suficiente para causar preocupação séria.
+
+**B.2 Rede de ajuda próxima ("Pedir ajuda perto de mim")**
+
+Quando a mãe precisa de ajuda **agora**, seja por uma crise forte, por estar sozinha, pela criança ter se perdido ou por não saber o que fazer, o app mostra quem pode ajudar **perto dela**, em 4 camadas:
+
+| Camada | Quem | Como funciona |
+|---|---|---|
+| 1. **Minha rede** | Pai, avó, vizinha, madrinha: contatos de confiança cadastrados pela mãe | Ligar ou mandar WhatsApp com um toque. Opção de **enviar uma mensagem pronta com a localização**: "Preciso de ajuda com o Davi, estou aqui: [mapa]". |
+| 2. **Mães do clã por perto** | Mães do clã que se cadastraram como **"Mão amiga"** (voluntárias, opt-in) e estão na mesma região | A mãe dispara um pedido ("preciso de alguém que ajude por 1 hora" ou "preciso conversar agora") e as Mãos amigas próximas recebem um aviso. **Nenhuma localização exata é exibida**, só "a cerca de 2 km". |
+| 3. **Parceiros de plantão** | Terapeutas, clínicas e psicólogos **verificados** que se comprometem com um **plantão de acolhimento** (orientação por telefone ou vídeo durante a crise, em horários definidos) | Lista ordenada por **distância e disponibilidade agora**, com o botão "Ligar". O primeiro contato de orientação é gratuito, e o parceiro ganha visibilidade no Hub como contrapartida (ver a seção 9.1). |
+| 4. **Serviços públicos** | **SAMU 192**, Bombeiros 193, Polícia 190 (criança desaparecida), **CVV 188** (para a mãe), CAPSi, CAPS e UPA mais próximos | Sempre visíveis, **sempre no topo quando há risco**, com endereço e rota. |
+
+**Regras importantes:**
+- **Em emergência, nunca há ranking pago.** A ordem é sempre por risco, depois por distância e disponibilidade. Os serviços públicos aparecem primeiro quando há risco à vida.
+- A **localização só é usada no momento do pedido** e não fica salva no histórico, a não ser que a mãe permita.
+- Mãos amigas e parceiros de plantão passam por **verificação** (identidade e, para profissionais, registro no conselho) e aceitam um termo de conduta.
+- Toda ajuda pode ser **avaliada** depois. Um parceiro mal avaliado perde o selo de plantão.
+- Há um **modo "criança desaparecida"**, com um passo a passo:
+  1. ligar para o 190;
+  2. avisar a rede e as mães próximas;
+  3. compartilhar a foto e o cartão com quem está ajudando;
+  4. verificar os lugares que a criança costuma procurar, como lugares com água e com o que ela gosta.
+
+---
+
+#### C. 📅 Agenda e lembretes
+- **Compromissos:** terapias recorrentes (por exemplo, "fono toda terça às 14h"), consultas, exames, reuniões da escola e perícias do INSS.
+- **Remédios:** horário e dose, com um botão **"Dei o remédio ✔"** que registra automaticamente no diário. Se não for confirmado, o app manda um novo lembrete gentil.
+- **Prazos e vencimentos:**
+  - renovação de laudo, receitas, CIPTEA e revisão do BPC;
+  - prazo de resposta do plano de saúde e do protocolo na ANS;
+  - prazos de processos.
+- **Check-in depois da consulta:** "Como foi a consulta? O que o médico disse?". A resposta vira um registro no diário, com a opção de anexar a receita ao Cofre.
+- **Agenda compartilhada** com a família (ver D). Cada compromisso tem um responsável: "quem leva o Davi na terapia hoje?".
+- **Lembretes** por notificação e, no futuro, por WhatsApp.
+- **Antecipação para a criança:** um compromisso pode virar um card na Rotina e uma História social. Por exemplo: "amanhã tem dentista" gera a história "Indo ao dentista".
+
+---
+
+#### D. 👨‍👩‍👧 Família conectada e 🏫 contato com a escola
+
+**D.1 Papéis e permissões**
+
+| Papel | Exemplos | O que pode fazer |
+|---|---|---|
+| **Responsável principal** | Mãe | Tudo, inclusive convidar e remover pessoas e excluir dados |
+| **Corresponsável** | Pai | Tudo, menos excluir a conta |
+| **Cuidador** | Avós, babá, tia | Ver a rotina, o cartão, o SOS e a agenda; registrar no diário. **Não vê** documentos jurídicos nem o relatório de processos. |
+| **Escola** | Professor, mediador, coordenação | Receber o relatório escolar e o cartão; usar o bilhete digital (ver D.3). Não vê o diário completo. |
+| **Terapeuta** | Fono, TO, psicólogo | Receber um relatório ou um **link temporário** (expira em 7 dias); no futuro, deixar anotações e "tarefas de casa". |
+
+**D.2 Dividir a carga**
+- **Quadro "Quem faz o quê"**, dividindo terapias, remédios, escola, banho e noite.
+- **Resumo semanal da carga**, que mostra quantas tarefas cada um fez na semana. Isso ajuda a tornar visível o trabalho invisível da mãe, sem culpar ninguém.
+- Notificações para o responsável do dia ("Hoje é você quem leva o Davi na fono, às 14h").
+
+**D.3 Contato com a escola**
+- **Bilhete digital:** a escola preenche em 1 minuto como foi o dia (humor, alimentação, crises, conquistas, um recado). A escola acessa **por link, sem precisar criar conta**. O bilhete entra no diário da criança.
+- **Recados família ↔ escola**, com histórico e confirmação de leitura.
+- **Relatório escolar em PDF** (seção 7.3) e o **cartão da criança** para a escola.
+- **Modelo de PEI** (Plano Educacional Individualizado) para preencher junto com a escola.
+- **Checklist de direitos na escola:** matrícula, profissional de apoio, adaptações e avaliação adaptada, com modelos de pedido formal.
+- **Agenda escolar:** reuniões, eventos e mudanças de rotina, como passeios e festas. Isso evita surpresas para a criança.
+
+---
+
+#### E. 💜 Cuidado com a saúde da mãe e 💼 trabalho e renda
+
+**E.1 Cuidar de quem cuida**
+- **Check-in semanal de 1 minuto:** "Como você está de 0 a 10?", "Dormiu bem?", "Teve algum momento para você?".
+  - Opcionalmente, usa **questionários curtos validados** de ansiedade e humor, sempre com o aviso de que **não é diagnóstico**.
+  - Se o resultado indicar sofrimento, o app oferece apoio e encaminhamento.
+- **Trilha "Cuidar de mim"** com áudios de 3 a 5 minutos: respiração, como lidar com a culpa, autocompaixão, sono da mãe, como pedir ajuda e luto pelo filho idealizado.
+- **"Pausa garantida":** a mãe pede ao clã ou à família uma folga de 2 horas por semana, e o app ajuda a organizar quem fica com a criança.
+- **Apoio profissional:**
+  - psicólogos **parceiros com preço social para mães**;
+  - grupos terapêuticos online;
+  - encaminhamento para a UBS e o CAPS.
+- **Sinais de alerta:** se a mãe relatar desesperança ou pensar em se machucar, o app mostra imediatamente o **CVV 188**, o CAPS mais próximo e a opção de avisar alguém de confiança.
+
+**E.2 Trabalho e renda**
+- **Vagas flexíveis:** empresas parceiras publicam vagas em home office, meio período ou com horário flexível, e ganham o selo de "Empresa amiga das mães atípicas".
+- **Cursos gratuitos e capacitação:** curadoria de cursos de instituições parceiras, como o Sistema S e plataformas de ensino.
+- **Feira das mães:** uma vitrine para as mães do app venderem seus produtos e serviços (doces, artesanato, costura, serviços), com destaque gratuito.
+- **Orientação sobre direitos ligados ao trabalho e à renda:**
+  - BPC e o que acontece se a família passar a ter renda;
+  - **horário especial para servidores públicos** com filho com deficiência (Lei 13.370/2016);
+  - outros direitos, com revisão jurídica.
+- **Mentoria de recolocação** com voluntários de RH de empresas parceiras.
+
+---
+
+#### F. 🤖 Assistente com IA (futuro, fase 3)
+- **Como funciona:** a IA responde **só com base no conteúdo revisado do app** (blog, guia, atividades, direitos). Essa técnica se chama RAG, ou busca em base própria. Toda resposta mostra **de qual conteúdo veio**, com um link.
+- **Exemplos de uso:**
+  - "Meu filho só come arroz branco, o que posso tentar?";
+  - "Como peço a negativa do plano por escrito?";
+  - "O que levar na consulta com o neuropediatra?".
+- **O que ela NÃO faz:**
+  - não diagnostica;
+  - não indica nem ajusta remédios ou doses;
+  - não substitui o terapeuta;
+  - não responde sobre assuntos fora da base revisada. Nesse caso, diz "não tenho essa informação revisada" e sugere a quem perguntar.
+- **Segurança:**
+  - se detectar risco (crise grave, criança desaparecida, mãe em sofrimento), a IA **abre o SOS ou a Rede de ajuda próxima** e mostra os telefones de emergência;
+  - as conversas não são usadas para anúncios;
+  - os dados de saúde não são enviados sem consentimento.
+- **Qualidade:**
+  - o conselho científico testa a IA antes do lançamento com uma lista de perguntas difíceis;
+  - as respostas podem ser avaliadas ("ajudou" ou "não ajudou");
+  - as respostas mal avaliadas são revisadas por pessoas.
+- **Opção do diário (com permissão):** a mãe pode pedir "resuma os últimos 30 dias do Davi para eu levar ao médico", e a IA usa os registros dela para montar o resumo.
 
 ---
 
@@ -619,6 +784,11 @@ Dados de saúde de criança são **dados sensíveis** e **dados de criança** pe
 - **Parceiro:** verificação, ofertas, cupons, resgates e avaliações.
 - **Artigo:** seção, semáforo, fontes, revisor e data de revisão.
 - **Documento:** um arquivo no cofre, com tipo e validade.
+- **Cartão:** campos visíveis escolhidos pela mãe, link público revogável e histórico de leituras do QR.
+- **Contato de ajuda:** a rede pessoal, as Mãos amigas (voluntárias verificadas, com região aproximada) e os parceiros de plantão (horários e disponibilidade).
+- **Pedido de ajuda:** tipo, momento e quem respondeu. A localização é usada só no momento do pedido.
+- **Compromisso:** tipo (terapia, consulta, remédio, prazo), recorrência, responsável e confirmação.
+- **Check-in da mãe:** respostas semanais, que são privadas e nunca são compartilhadas com o clã nem com parceiros.
 
 ---
 
@@ -640,13 +810,22 @@ Dados de saúde de criança são **dados sensíveis** e **dados de criança** pe
 - [ ] **Atividades:** as 30 primeiras.
 - [ ] **Diário** com os registros de crise, sono, alimentação, conquista e medicação.
 - [ ] **Relatórios em PDF:** os modelos médico, escola e resumo.
-- [ ] **SOS Crise** e **Cartão da criança**.
+- [ ] **SOS Crise**, completo e offline.
+- [ ] **Cartão da criança com QR code**, com a página de emergência e o PDF para imprimir.
+- [ ] **Rede de ajuda próxima** com as camadas 1 (minha rede) e 4 (serviços públicos).
+- [ ] **Agenda e lembretes**, incluindo remédios com "Dei o remédio ✔".
+- [ ] **Família conectada**, com os papéis de responsável, corresponsável e cuidador.
+- [ ] **Cuidar de quem cuida**: check-in semanal, áudios curtos e encaminhamento ao CVV ou ao CAPS.
 - [ ] **Clã:** piloto com 5 clãs e mães-guia.
 - [ ] **Aprender:** os 20 primeiros posts e o Guia do tratamento.
 - [ ] Piloto com 100 a 300 famílias em 1 ou 2 cidades.
 
 ### Fase 2: Crescimento
 - [ ] **Hub de parceiros e benefícios**, com cupons, vitrine e avaliações.
+- [ ] **Rede de ajuda próxima**, com as camadas 2 (Mães "Mão amiga") e 3 (**parceiros de plantão**), e o modo "criança desaparecida".
+- [ ] Alerta de leitura do QR code e venda de pulseiras e etiquetas com QR pelos parceiros.
+- [ ] **Contato com a escola:** bilhete digital, recados e modelo de PEI.
+- [ ] **Trabalho e renda:** vagas flexíveis, cursos e Feira das mães.
 - [ ] Relatório jurídico, **Direitos e modelos** e **Cofre de documentos**.
 - [ ] **Mapa de serviços gratuitos**.
 - [ ] Agenda e lembretes, e **Família conectada**.
@@ -657,7 +836,7 @@ Dados de saúde de criança são **dados sensíveis** e **dados de criança** pe
 ### Fase 3: Escala e impacto
 - [ ] Ponte com a escola e diário compartilhado com terapeutas.
 - [ ] Feedback por vídeo (a mãe filma a brincadeira e recebe orientação).
-- [ ] Assistente de dúvidas com IA baseado no conteúdo revisado.
+- [ ] Assistente com IA baseado no conteúdo revisado (seção 12.1-F).
 - [ ] Parcerias com prefeituras e com o programa CST do Ministério da Saúde.
 - [ ] Estudo de impacto com uma universidade.
 - [ ] Publicação nas lojas (Google Play e App Store).
@@ -694,6 +873,9 @@ Dados de saúde de criança são **dados sensíveis** e **dados de criança** pe
 | Celular simples e pouca internet | PWA leve, modo offline e mídia comprimida |
 | Sustentabilidade financeira | Receitas diversificadas (parceiros, ESG, B2B, B2G e editais) |
 | Conteúdo clínico errado | Conselho científico, revisão obrigatória e data de revisão visível |
+| Mau uso da Rede de ajuda próxima (alguém mal-intencionado se passando por "Mão amiga" ou parceiro) | Verificação de identidade e do registro profissional, localização sempre aproximada, termo de conduta, avaliação após cada ajuda e botão de denúncia |
+| QR code do cartão expor dados da criança | A mãe escolhe os campos, não há endereço nem laudo, o link é revogável e há alerta de leitura |
+| IA dar uma resposta errada ou perigosa | Respostas só da base revisada, bloqueio de diagnóstico e de doses, testes do conselho científico e revisão humana |
 | Crítica da comunidade autista | Adultos autistas no conselho, linguagem respeitosa e foco em bem-estar, não em "normalizar" |
 
 ---
@@ -732,6 +914,9 @@ Dados de saúde de criança são **dados sensíveis** e **dados de criança** pe
 - Estudo TIME-A (JAMA 2017): https://eprints.lse.ac.uk/84028
 - Hiperacusia no autismo: https://entandaudiologynews.com/media/37240/entja24-danesh-final.pdf
 - Abafadores de ruído: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6863142/
+
+**Segurança: fuga e desaparecimento**
+- Anderson et al., *Pediatrics* 2012, sobre fuga em crianças autistas (49% tentaram pelo menos uma vez): https://sciencedaily.com/releases/2012/10/121008082650.htm · https://iacc.hhs.gov/publications/summary-of-advances/2012/question5.shtml
 
 **Falsas curas**
 - Alerta da Anvisa sobre o MMS: https://www.jb.com.br/ciencia_e_tecnologia/2019/05/1001626-vendida-como-cura-milagrosa-para-autismo---mms--gera-alerta-entre-pais-e-governo.html
