@@ -35,7 +35,7 @@
 
 **Missão:** nenhuma mãe atípica deve enfrentar o autismo do filho sozinha, sem informação ou sem dinheiro para começar.
 
-**Promessa:** *"Organize o dia do seu filho, registre a evolução dele, aprenda o que funciona e conte com um clã de mães que entendem você. Tudo de graça."*
+**Promessa:** *"Organize o dia do seu filho, registre a evolução dele, aprenda o que funciona e conte com um clã de mães que entendem você. Tudo em um só app, a partir de R$ 9,90 por mês."*
 
 **Sugestões de nome** (consultar o INPI antes de decidir):
 
@@ -49,7 +49,7 @@
 > **Identidade visual:** evitar a peça de quebra-cabeça, porque muitos autistas a rejeitam por sugerir que "falta uma peça". Preferir o símbolo do infinito (neurodiversidade) ou uma identidade própria. Usar cores calmas e pouco estímulo visual.
 
 **Princípios do produto:**
-1. **Grátis para a família no essencial.** Quem paga são parceiros, patrocinadores e o poder público.
+1. **Preço acessível e foco em crescer a base.** Assinatura de R$ 9,90 a R$ 49,90 por mês (seção 13). O SOS Crise e o cartão com QR são sempre grátis, e há assinatura patrocinada para famílias de baixa renda.
 2. **Baseado em evidência.** Todo conteúdo clínico é revisado por profissionais e mostra seu nível de evidência.
 3. **Feito para mães cansadas.** Tudo se faz com até 3 toques, as lições duram até 10 minutos, há áudio sempre e o app funciona sem internet.
 4. **Comunidade com gente de verdade.** Os estudos mostram que programas sem apoio humano têm mais abandono.
@@ -318,7 +318,7 @@ A mãe escolhe o **período** (30, 90 ou 180 dias, ou personalizado), o **modelo
 
 ## 9. Módulo 6: Hub de parceiros e benefícios
 
-**Objetivo:** dar às famílias **descontos reais em tratamentos, produtos e serviços**, e **financiar o app** sem cobrar das mães.
+**Objetivo:** dar às famílias **descontos reais em tratamentos, produtos e serviços**, o que ajuda a compensar a assinatura, e **complementar a receita** do app.
 
 ### 9.1 Categorias de parceiros
 
@@ -705,9 +705,43 @@ Quando a mãe precisa de ajuda **agora**, seja por uma crise forte, por estar so
 
 ## 13. Modelo de negócio
 
-**Regra de ouro: o essencial é grátis para as famílias, para sempre.**
+**Objetivo do negócio:** ter o **máximo de clientes** possível para valorizar e vender a empresa a médio e longo prazo.
+**Modelo principal:** assinatura mensal acessível, complementada por parceiros, empresas, governo e editais.
 
-### Fontes de receita
+### Planos (proposta inicial, a validar com as mães)
+
+| Plano | Preço | O que inclui |
+|---|---|---|
+| **Teste grátis** | 7 dias | Tudo do plano Completo |
+| **Básico** (porta de entrada) | **R$ 9,90/mês** | Hoje, Rotina, Atividades, Diário (registros e gráficos), Agenda e lembretes, Aprender (blog) |
+| **Essencial** | **R$ 29,90/mês** | Tudo do Básico + relatórios em PDF, Clã, Guia do tratamento completo, Família conectada e descontos do Hub de parceiros |
+| **Completo** | **R$ 49,90/mês** | Tudo do Essencial + mãe-guia e encontros semanais, ponte com a escola, relatório jurídico, cofre de documentos, Rede de ajuda completa e, no futuro, o assistente com IA |
+| **Assinatura patrocinada** | R$ 0 para a família | Plano pago por empresas, projetos ESG ou prefeituras para famílias de baixa renda (por exemplo, inscritas no CadÚnico) |
+
+**Sempre grátis, mesmo sem assinatura:** SOS Crise e Cartão da criança com QR code (página de emergência). São recursos de segurança e também **ferramentas de divulgação**: cada cartão lido mostra a marca do app.
+
+> **Atenção ao preço:** 73% das famílias já citam o custo do tratamento como problema (Genial Care, 2023). Por isso o plano de R$ 9,90, o teste grátis, a assinatura patrocinada e os descontos dos parceiros são importantes. **Testar o preço nas entrevistas da fase 0**, perguntando às mães quanto pagariam e por quais recursos.
+
+### Estratégia de crescimento (para maximizar a base)
+- **Entrada barata:** o plano de R$ 9,90 e 7 dias grátis reduzem a barreira para começar.
+- **Recursos grátis que espalham a marca:** o SOS e o cartão com QR.
+- **Indicação entre mães:** convidar outra mãe dá 1 mês grátis para as duas.
+- **Canais parceiros:** clínicas, terapeutas, escolas e associações (AMA, APAE) indicam o app às famílias.
+- **Venda em grupo:** empresas (benefício corporativo) e prefeituras trazem muitas famílias de uma vez.
+- **Conteúdo:** o blog e as redes sociais atraem mães que buscam informação confiável.
+- **Plano anual com desconto** (opcional): aumenta a permanência.
+
+### O que valoriza a empresa numa venda futura
+- **Mães ativas por mês** e crescimento da base.
+- **Assinantes pagantes** e **receita recorrente mensal** (MRR).
+- **Cancelamento** baixo (churn) e tempo médio de assinatura.
+- **Custo para conquistar cada mãe** (CAC) comparado ao quanto ela paga ao longo do tempo (LTV).
+- **Marca confiável**, conteúdo revisado por profissionais e **dados protegidos pela LGPD**.
+- **Possíveis compradores:** healthtechs, redes de clínicas, operadoras de saúde e empresas de benefícios corporativos.
+
+> **Importante sobre dados:** os dados de saúde das crianças **nunca** podem ser vendidos separadamente. Numa venda da empresa, quem compra assume as mesmas obrigações da LGPD e precisa respeitar o consentimento dado pelas famílias. A confiança das mães é o que dá valor ao app.
+
+### Fontes de receita complementares
 
 | Fonte | Como funciona | Quando |
 |---|---|---|
@@ -716,11 +750,12 @@ Quando a mãe precisa de ajuda **agora**, seja por uma crise forte, por estar so
 | **Benefício corporativo (B2B)** | Empresas pagam por funcionário para oferecer o app e os descontos aos pais | Fase 2 e 3 |
 | **Governo (B2G)** | Prefeituras e secretarias de saúde e de educação licenciam o app para as famílias do município, com um painel de dados anônimos | Fase 3 |
 | **Editais e fundações** | FAPESP PIPE, Finep, fundações de impacto e aceleradoras sociais | Desde o início |
-| **Apoiador voluntário** | Quem pode contribui com um valor mensal opcional, que "paga" o app de outra família. Não libera recursos extras essenciais. | Fase 2 |
+| **Apoiador voluntário** | Quem pode contribui com um valor mensal opcional, que paga a assinatura de outra família | Fase 2 |
 
 ### O que NÃO fazer
 - Vender dados das famílias.
-- Bloquear o diário, o PDF, o clã ou o SOS atrás de um pagamento.
+- Cobrar pelo SOS Crise ou pelo cartão de emergência.
+- Apagar ou bloquear os registros do diário de quem cancelar a assinatura: a mãe sempre pode ver e baixar o que já registrou.
 - Aceitar anunciantes que violem a política da seção 9.5.
 
 ---
@@ -795,7 +830,7 @@ Dados de saúde de criança são **dados sensíveis** e **dados de criança** pe
 ## 16. Roteiro de lançamento
 
 ### Fase 0: Validação (antes de programar)
-- [ ] Entrevistar de 15 a 20 mães (SUS e plano, capital e interior).
+- [ ] Entrevistar de 15 a 20 mães (SUS e plano, capital e interior), incluindo **quanto pagariam** e por quais recursos.
 - [ ] Fazer um protótipo clicável (Figma) das telas Hoje, Rotina, Diário e Clã e testar com 5 mães.
 - [ ] Montar o conselho científico (de 4 a 6 pessoas, incluindo um adulto autista).
 - [ ] Recrutar de 3 a 5 mães-guia para o piloto.
@@ -818,9 +853,10 @@ Dados de saúde de criança são **dados sensíveis** e **dados de criança** pe
 - [ ] **Cuidar de quem cuida**: check-in semanal, áudios curtos e encaminhamento ao CVV ou ao CAPS.
 - [ ] **Clã:** piloto com 5 clãs e mães-guia.
 - [ ] **Aprender:** os 20 primeiros posts e o Guia do tratamento.
-- [ ] Piloto com 100 a 300 famílias em 1 ou 2 cidades.
+- [ ] Piloto **gratuito** com 100 a 300 famílias em 1 ou 2 cidades, para validar o produto.
 
 ### Fase 2: Crescimento
+- [ ] **Início das assinaturas** (Básico R$ 9,90, Essencial R$ 29,90 e Completo R$ 49,90), com teste de 7 dias, programa de indicação e assinatura patrocinada.
 - [ ] **Hub de parceiros e benefícios**, com cupons, vitrine e avaliações.
 - [ ] **Rede de ajuda próxima**, com as camadas 2 (Mães "Mão amiga") e 3 (**parceiros de plantão**), e o modo "criança desaparecida".
 - [ ] Alerta de leitura do QR code e venda de pulseiras e etiquetas com QR pelos parceiros.
@@ -857,7 +893,11 @@ Dados de saúde de criança são **dados sensíveis** e **dados de criança** pe
 | Impacto | Estresse da mãe (escala curta), na entrada e após 3 meses | Redução |
 | Impacto | Direitos conquistados com ajuda do app (BPC, CIPTEA, terapia) | Acompanhar |
 | Satisfação | NPS (quanto a mãe recomendaria o app) | > 60 |
-| Negócio | Parceiros ativos, cupons resgatados e receita mensal | Acompanhar |
+| Negócio | Mães ativas por mês (crescimento da base) | Acompanhar |
+| Negócio | Conversão do teste grátis para um plano pago | > 20% |
+| Negócio | Cancelamento mensal (churn) | < 8% |
+| Negócio | Receita recorrente mensal, custo de aquisição (CAC) e valor do cliente ao longo do tempo (LTV) | LTV > 3x CAC |
+| Negócio | Parceiros ativos e cupons resgatados | Acompanhar |
 
 ---
 
@@ -871,7 +911,8 @@ Dados de saúde de criança são **dados sensíveis** e **dados de criança** pe
 | Mães-guia sobrecarregadas | Limite de clãs por guia, treinamento, apoio da equipe e bolsa ou benefícios |
 | Abandono do app | Tarefas de 3 toques, conteúdo curto, clã ativo e lembretes gentis (sem culpa) |
 | Celular simples e pouca internet | PWA leve, modo offline e mídia comprimida |
-| Sustentabilidade financeira | Receitas diversificadas (parceiros, ESG, B2B, B2G e editais) |
+| Preço afastar famílias de baixa renda | Plano de R$ 9,90, teste grátis, assinatura patrocinada, descontos dos parceiros e SOS e cartão sempre grátis |
+| Sustentabilidade financeira | Assinaturas mais receitas complementares (parceiros, ESG, B2B, B2G e editais) |
 | Conteúdo clínico errado | Conselho científico, revisão obrigatória e data de revisão visível |
 | Mau uso da Rede de ajuda próxima (alguém mal-intencionado se passando por "Mão amiga" ou parceiro) | Verificação de identidade e do registro profissional, localização sempre aproximada, termo de conduta, avaliação após cada ajuda e botão de denúncia |
 | QR code do cartão expor dados da criança | A mãe escolhe os campos, não há endereço nem laudo, o link é revogável e há alerta de leitura |

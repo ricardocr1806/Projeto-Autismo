@@ -63,12 +63,14 @@ O usuário principal é **a mãe**, que costuma ter:
   - criptografia e nenhuma venda de dados.
 - **Acessibilidade:** fonte grande, áudio em todas as lições e leitura fácil para baixa escolaridade.
 
-## 5. Sustentabilidade (gratuito para a família)
+## 5. Sustentabilidade
+
+> **Atualização:** o modelo passou a ser **assinatura de R$ 9,90 a R$ 49,90 por mês**, com foco em ter o máximo de clientes. O SOS Crise e o cartão com QR são sempre grátis. Os detalhes estão na seção 13 de `especificacao-produto.md`. As fontes abaixo viraram receitas complementares.
 
 - Editais de inovação e impacto social: FAPESP PIPE, Finep, fundações (por exemplo, a Fundação Banco do Brasil, que apoiou o Mapa Autismo Brasil) e programas de aceleração de impacto.
 - Licença institucional para prefeituras e secretarias de saúde e de educação.
 - Patrocínio ESG de empresas, que podem oferecer o app a funcionários pais.
-- **Nunca** cobrar da família pelo essencial.
+- Assinatura patrocinada por empresas e prefeituras para famílias de baixa renda.
 
 ## 6. Cuidados éticos
 
